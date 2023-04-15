@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cloveri_test_frontend/static/css/main.3c5b3ba1.css",
+    "main.js": "/cloveri_test_frontend/static/js/main.3cdfba62.js",
+    "static/media/devOps.png": "/cloveri_test_frontend/static/media/devOps.de6620b2431cb17579cb.png",
+    "static/media/python.png": "/cloveri_test_frontend/static/media/python.0d61f222b72d99c0b858.png",
+    "static/media/android.png": "/cloveri_test_frontend/static/media/android.a34956be73fa89184af9.png",
+    "static/media/product.jpg": "/cloveri_test_frontend/static/media/product.f394e9a7c193da4e38ac.jpg",
+    "static/media/qa.jpg": "/cloveri_test_frontend/static/media/qa.a7fd6f82d9704ddb983a.jpg",
+    "static/media/php.png": "/cloveri_test_frontend/static/media/php.df7417a62193d78e0276.png",
+    "static/media/backend.jpg": "/cloveri_test_frontend/static/media/backend.53182c4e914b460b7aa1.jpg",
+    "static/media/ux-ui.jpg": "/cloveri_test_frontend/static/media/ux-ui.71ce000238049c2164d1.jpg",
+    "static/media/java.png": "/cloveri_test_frontend/static/media/java.f5e0e89e65ccfdb8fd5b.png",
+    "static/media/frontend.jpg": "/cloveri_test_frontend/static/media/frontend.31e2394dace236615eb8.jpg",
+    "static/media/arrow-left.svg": "/cloveri_test_frontend/static/media/arrow-left.170e0f79398b767018d5ce0c4993264f.svg",
+    "static/media/arrow-right.svg": "/cloveri_test_frontend/static/media/arrow-right.11a5d2dd6d37ef852c83982650f8f8fa.svg",
+    "index.html": "/cloveri_test_frontend/index.html",
+    "main.3c5b3ba1.css.map": "/cloveri_test_frontend/static/css/main.3c5b3ba1.css.map",
+    "main.3cdfba62.js.map": "/cloveri_test_frontend/static/js/main.3cdfba62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c5b3ba1.css",
+    "static/js/main.3cdfba62.js"
+  ]
+}
